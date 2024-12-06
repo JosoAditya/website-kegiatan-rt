@@ -269,7 +269,7 @@ footer p {
 /* media queries */
 @media (min-width: 300px) {
   .header__content h1 {
-    font-size: 3.5rem;
+    font-size: 2rem;
     line-height: 2rem;
   }
   .header__content p {
